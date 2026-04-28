@@ -214,8 +214,6 @@ As observed, the link appears in the Run command history. I then proceeded to ac
 
 
 
-The video appears suspicious, as it is unusual for it to contain only a single media file. Therefore, I downloaded it to further analyze whether any hidden data might be embedded within the video.
-
 ![Desktop View](/assets/posts/2026-04-26-UMCS Lab/metamon32.png){: width="572" height="89" .rounded-10  }
 
 The video seems suspicious, as it is unusual for it to contain only a single media file. Therefore, I downloaded it to further analyze whether any hidden data might be embedded within the video. So I used binwalk to investigate the file
