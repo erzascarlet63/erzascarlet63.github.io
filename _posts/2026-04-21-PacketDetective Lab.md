@@ -4,7 +4,7 @@ date: 2026-04-26 00:00:00 +0800
 categories: [ctf]
 tags: [blueteam]     # TAG names should always be lowercase
 description: UMCS CTF
-image: assets/posts/2026-04-26-UMCS Lab/dfir.png
+image: assets/posts/2026-04-26-UMCS Lab/umcs.png
 ---
 
 ## Misc
